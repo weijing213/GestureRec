@@ -92,3 +92,8 @@
     Python test_vgg.py
     Python time_vgg.py ##(实时检测)
 ```
+**权重下载**
+```
+通过网盘分享的文件：GestureRec
+链接: https://pan.baidu.com/s/1Zr9J55ce4Zsj7aEQ5-agog?pwd=hr8s 提取码: hr8s
+```
